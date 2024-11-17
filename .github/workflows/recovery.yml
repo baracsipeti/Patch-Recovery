@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: https://mega.nz/file/
+        default: https://1drv.ms/u/s!AiKpgJr7V7uO1HbgvQuY2v7hVXul?e=rxFyxh
         
 
 env:
